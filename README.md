@@ -7,6 +7,7 @@
 
 ## General info
 Just a simple sctipt to send email using gmail account.
+Requres to generate the Gmail app password
 
 More info about gmail account set up [here](https://dmitrygolovach.com/python-simple-email-gmail/)
 
